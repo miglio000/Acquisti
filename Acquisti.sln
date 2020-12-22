@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compratore", "Compratore\Compratore.csproj", "{4580FAEE-33CA-4D33-BAD4-BB5F197FC148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negozio", "Negozio\Negozio.csproj", "{B61266F8-453D-4C23-B679-B5E5C92C3A23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4580FAEE-33CA-4D33-BAD4-BB5F197FC148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4580FAEE-33CA-4D33-BAD4-BB5F197FC148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4580FAEE-33CA-4D33-BAD4-BB5F197FC148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4580FAEE-33CA-4D33-BAD4-BB5F197FC148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B61266F8-453D-4C23-B679-B5E5C92C3A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61266F8-453D-4C23-B679-B5E5C92C3A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61266F8-453D-4C23-B679-B5E5C92C3A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61266F8-453D-4C23-B679-B5E5C92C3A23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6702C91-E0E2-48C9-ACD6-9F73AF803061}
+	EndGlobalSection
+EndGlobal
